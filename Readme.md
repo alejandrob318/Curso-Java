@@ -21,7 +21,7 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
         </ol>
     </li>
     </li>Base de datos Relacional
-        <ol>
+        <ul>
             <li> Concepto de DB</li>
             <li>DER</li>
             <li>SGBD</li>
@@ -30,7 +30,7 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Consultas SQL</li>
             <li>Join</li>
             <li>Subconsultas </li>
-        </ol>
+        </ul>
     </li>
     </li>POO
         <ol>
