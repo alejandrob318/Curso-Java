@@ -2,7 +2,6 @@
 Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Backend:
 
   
-[![Roadmap.png](https://i.postimg.cc/yd9xKdSR/Roadmap.png)](https://postimg.cc/qhJ4XpwB)
 
 
 <ol>
@@ -130,3 +129,6 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
         </ul>
     </li>
 </ol>
+
+
+[![Roadmap.png](https://i.postimg.cc/yd9xKdSR/Roadmap.png)](https://postimg.cc/qhJ4XpwB)
