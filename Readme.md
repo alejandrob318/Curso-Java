@@ -1,6 +1,7 @@
 <h1>RoadMap desarrollador JAVA Developer<h1>
 Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Backend:
 
+por si queres leer todo lo que aprendo les dejo un link com mis apuntes: https://docs.google.com/document/d/17uPT95xmQa_Ql5nqqaiY24JCpOQ5lJSpvpnHOJtFYSM/edit?usp=sharing
 <br>
 <ol>
   <br>
