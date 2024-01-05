@@ -10,7 +10,7 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
 <br>
 2)JAVA SE
 <br>
-  2.1) variables
+ <pre> 2.1) variables
   <br>
   2.2) Tipos de datos
   <br>
@@ -25,6 +25,7 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
   2.7) Modelo de capas
   <br>
 3)Base de datos Relacional
+<br>
   3.1) Concepto de DB
   3.2) DER
   3.3) SGBD
