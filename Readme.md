@@ -4,8 +4,9 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
   
 [![Roadmap.png](https://i.postimg.cc/yd9xKdSR/Roadmap.png)](https://postimg.cc/qhJ4XpwB)
 
+
+
 <ol>
-    <li>Logica de Programacion 👍</li>
 
     <li>IDE 👍 (Intellij)</li>
 
