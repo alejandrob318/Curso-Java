@@ -1,10 +1,9 @@
 <h1>RoadMap desarrollador JAVA Developer<h1>
 Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Backend:
 
-  
-
 <br>
 <ol>
+  <br>
     <li>Logica de Programacion 👍</li>
     <br>
     <li>IDE 👍 (Intellij)</li>
