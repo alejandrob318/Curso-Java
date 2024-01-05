@@ -5,10 +5,11 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
 [![Roadmap.png](https://i.postimg.cc/yd9xKdSR/Roadmap.png)](https://postimg.cc/qhJ4XpwB)
 
 
-
 <ol>
     <li>Logica de Programacion 👍</li>
+    <br>
     <li>IDE 👍 (Intellij)</li>
+    <br>
     <li>JAVA SE
         <ol>
             <li>variables</li>
@@ -20,8 +21,9 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Modelo de capas</li>
         </ol>
     </li>
-    </li>Base de datos Relacional
-        <ul>
+    <br>
+    <li>Base de datos Relacional
+        <ol>
             <li> Concepto de DB</li>
             <li>DER</li>
             <li>SGBD</li>
@@ -30,9 +32,10 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Consultas SQL</li>
             <li>Join</li>
             <li>Subconsultas </li>
-        </ul>
+        </ol>
     </li>
-    </li>POO
+    <br>
+    <li>POO
         <ol>
             <li> Clases</li>
             <li>Objetos</li>
@@ -47,6 +50,7 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>ORM y JPA (CRUD)</li>
         </ol>
     </li>
+    <br>
     <li>WEB
         <ol>
            <li>Protocolo HTTP</li>
@@ -57,6 +61,7 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
            <li>Concepto Servidor</li> 
         </ol>
     </li>
+    <br>
     <li>Springboot
         <ol>
             <li>Patron MVC</li>
@@ -71,5 +76,57 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>JPA + Hibernate</li>
         </ol>
     </li>
-</ol>  
-  
+    <br>
+    <li>Microservicios
+        <ol>
+            <li>Monolitos vs Microservicios</li>
+            <li>Spring Cloud</li>
+            <li>Feign</li>
+            <li>Sv Registry y discovery</li>
+            <li>balanceo de carga</li>
+            <li>Circuit de breaker</li>
+            <li>Otro Patrones</li>
+        </ol>
+    </li>
+    <br>
+    <li>Complementos
+        <ol>
+            <li>Lambdas y Streams</li>
+            <li>programacion Funcional</li>
+            <li>Hilos(Threads)</li>
+            <li>Clean Code</li>
+            <li>Utils y generics</li>
+            <li>Optional</li>
+            <li>Patrones de diseño</li>
+        </ol>
+    </li>
+    <br>
+    <li>Seguridad
+        <ol>
+            <li>Spring Security</li>
+            <li>JWT y 0AUTH</li>
+            <li>IAM(ej keycloak)</li>
+        </ol>
+    </li>
+    <br>
+    <li>Testing
+        <ol>
+            <li>Test unitarios</li>
+            <li>Test de integracion</li>
+            <li>JUnit</li>
+            <li>Mockito</li>
+        </ol>
+    </li>
+    <br>
+    <li>Herramientos Complementarios
+        <ol>
+            <li>Git y github</li>
+            <li>Swagger</li>
+            <li>terminal/ linea de comandos</li>
+            <li>Docker</li>
+            <li>UML</li>
+            <li>Scrum</li>
+            <li>otros</li>
+        </ol>
+    </li>
+</ol>
