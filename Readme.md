@@ -7,9 +7,8 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
 
 
 <ol>
-
+    <li>Logica de Programacion 👍</li>
     <li>IDE 👍 (Intellij)</li>
-
     <li>JAVA SE
         <ol>
             <li>variables</li>
@@ -19,7 +18,6 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Vectores</li>
             <li>Matrices</li>
             <li>Modelo de capas</li>
-            
         </ol>
     </li>
     </li>Base de datos Relacional
@@ -34,7 +32,6 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Subconsultas </li>
         </ol>
     </li>
-
     </li>POO
         <ol>
             <li> Clases</li>
@@ -72,7 +69,6 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Inyeccion de dependencias</li>
             <li>Patron DTO</li>
             <li>JPA + Hibernate</li>
-            
         </ol>
     </li>
 </ol>  
