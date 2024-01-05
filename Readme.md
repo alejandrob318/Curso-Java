@@ -5,15 +5,25 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
 [![Roadmap.png](https://i.postimg.cc/yd9xKdSR/Roadmap.png)](https://postimg.cc/qhJ4XpwB)
 
 0)Logica de Programacion 👍
+<br>
 1)IDE 👍 (Intellij)
+<br>
 2)JAVA SE
+<br>
   2.1) variables
+  <br>
   2.2) Tipos de datos
+  <br>
   2.3) Condicionales
+  <br>
   2.4) Bucles
+  <br>
   2.5) Vectores
+  <br>
   2.6) Matrices
+  <br>
   2.7) Modelo de capas
+  <br>
 3)Base de datos Relacional
   3.1) Concepto de DB
   3.2) DER
