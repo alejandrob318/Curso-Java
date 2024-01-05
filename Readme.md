@@ -11,7 +11,7 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
     <li>IDE 👍 (Intellij)</li>
     <br>
     <li>JAVA SE
-        <ol>
+        <ul>
             <li>variables</li>
             <li>Tipos de datos</li>
             <li>Condicionales</li>
@@ -19,11 +19,11 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Vectores</li>
             <li>Matrices</li>
             <li>Modelo de capas</li>
-        </ol>
+        </ul>
     </li>
     <br>
     <li>Base de datos Relacional
-        <ol>
+        <ul>
             <li> Concepto de DB</li>
             <li>DER</li>
             <li>SGBD</li>
@@ -32,11 +32,11 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Consultas SQL</li>
             <li>Join</li>
             <li>Subconsultas </li>
-        </ol>
+        </ul>
     </li>
     <br>
     <li>POO
-        <ol>
+        <ul>
             <li> Clases</li>
             <li>Objetos</li>
             <li>Metodos</li>
@@ -48,22 +48,22 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Excepciones</li>
             <li>Relaciones</li>
             <li>ORM y JPA (CRUD)</li>
-        </ol>
+        </ul>
     </li>
     <br>
     <li>WEB
-        <ol>
+        <ul>
            <li>Protocolo HTTP</li>
            <li>Arq Cliente y servidor</li>
            <li>Servlets</li>
            <li>SP/JSF</li>
            <li>Concepto API</li>
            <li>Concepto Servidor</li> 
-        </ol>
+        </ul>
     </li>
     <br>
     <li>Springboot
-        <ol>
+        <ul>
             <li>Patron MVC</li>
             <li>API Rest y Endpoints</li>
             <li>Maven</li>
@@ -74,11 +74,11 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Inyeccion de dependencias</li>
             <li>Patron DTO</li>
             <li>JPA + Hibernate</li>
-        </ol>
+        </ul>
     </li>
     <br>
     <li>Microservicios
-        <ol>
+        <ul>
             <li>Monolitos vs Microservicios</li>
             <li>Spring Cloud</li>
             <li>Feign</li>
@@ -86,11 +86,11 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>balanceo de carga</li>
             <li>Circuit de breaker</li>
             <li>Otro Patrones</li>
-        </ol>
+        </ul>
     </li>
     <br>
     <li>Complementos
-        <ol>
+        <ul>
             <li>Lambdas y Streams</li>
             <li>programacion Funcional</li>
             <li>Hilos(Threads)</li>
@@ -98,28 +98,28 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>Utils y generics</li>
             <li>Optional</li>
             <li>Patrones de diseño</li>
-        </ol>
+        </ul>
     </li>
     <br>
     <li>Seguridad
-        <ol>
+        <ul>
             <li>Spring Security</li>
             <li>JWT y 0AUTH</li>
             <li>IAM(ej keycloak)</li>
-        </ol>
+        </ul>
     </li>
     <br>
     <li>Testing
-        <ol>
+        <ul>
             <li>Test unitarios</li>
             <li>Test de integracion</li>
             <li>JUnit</li>
             <li>Mockito</li>
-        </ol>
+        </ul>
     </li>
     <br>
     <li>Herramientos Complementarios
-        <ol>
+        <ul>
             <li>Git y github</li>
             <li>Swagger</li>
             <li>terminal/ linea de comandos</li>
@@ -127,6 +127,6 @@ Aca pondre todo mi progreso que avanzare en el roadmap a Desarrollador Java Back
             <li>UML</li>
             <li>Scrum</li>
             <li>otros</li>
-        </ol>
+        </ul>
     </li>
 </ol>
